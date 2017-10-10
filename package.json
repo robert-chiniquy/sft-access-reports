@@ -1,0 +1,19 @@
+{
+  "name": "real-quick-here",
+  "version": "1.0.0",
+  "description": "",
+  "main": "doit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "logmagic": "^0.3.0",
+    "moment": "^2.18.1",
+    "parse-link-header": "^1.0.1",
+    "request": "^2.83.0",
+    "underscore": "^1.8.3"
+  }
+}
